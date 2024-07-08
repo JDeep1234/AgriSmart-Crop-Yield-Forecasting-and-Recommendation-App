@@ -1,0 +1,8 @@
+joblib
+Pillow
+requests
+streamlit
+streamlit==1.12.0
+scikit-learn
+pandas
+altair==4.0
