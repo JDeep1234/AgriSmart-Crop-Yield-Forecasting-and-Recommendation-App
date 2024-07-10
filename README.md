@@ -2,7 +2,7 @@
 
 AgriSmart is a web application designed to help farmers forecast crop yields and make smart fertilizer and pesticide recommendations based on various factors such as crop type, season, state, area, production, and annual rainfall.
 
-Link to the app - https://agricultural-yield.streamlit.app/
+
 
 ### Features
 
